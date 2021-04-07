@@ -1,7 +1,10 @@
 # Work_in_Graphic_Design
 My works in graphic design (freelance)
 
-Graphic Design in: 
+
+
+Graphic Design in:
+
       - Adobe Photoshop 
       - Adobe Illustrator 
       - Adobe InDesign 
