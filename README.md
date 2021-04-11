@@ -24,6 +24,6 @@ Examples of my works:
 3.    Leaflet-billboard for school: 
       ![11](https://user-images.githubusercontent.com/81822988/113870928-a6012d80-97b2-11eb-8ec3-04cdac841c98.png)
 
-4.    Special flyer for restaurant:
+4.    Special flyer for restaurant/photography for social networks:
       ![meze_theend](https://user-images.githubusercontent.com/81822988/114288222-dc1e0600-9a6d-11eb-8460-fcf08188254a.jpg)
  
