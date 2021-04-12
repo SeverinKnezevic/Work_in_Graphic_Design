@@ -26,4 +26,9 @@ Examples of my works:
 
 4.    Special flyer for restaurant/photography for social networks:
       ![meze_theend](https://user-images.githubusercontent.com/81822988/114288222-dc1e0600-9a6d-11eb-8460-fcf08188254a.jpg)
- 
+
+5.    COVID-19 instructions:
+      ![covid19_stop](https://user-images.githubusercontent.com/81822988/114436599-d0455780-9bc5-11eb-8e78-4e8256b53b47.jpg)
+      
+6.    Note on closing the door due to cigarette smoke:
+      ![obavezno zatvoriti vrata 1](https://user-images.githubusercontent.com/81822988/114436642-de937380-9bc5-11eb-8d32-d0682f02e7ae.jpg)
