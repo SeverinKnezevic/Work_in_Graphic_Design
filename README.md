@@ -19,7 +19,8 @@ Examples of my works:
       ![Jupol-Sale](https://user-images.githubusercontent.com/81822988/113870948-aac5e180-97b2-11eb-9f8a-bfb243c40d59.jpg)  
       
 2.    Bussiness card:
-      ![156962904_189590599200573_5317972669169496842_n](https://user-images.githubusercontent.com/81822988/113871204-f11b4080-97b2-11eb-9972-c8f20da53b43.jpg)
+     ![Business_card](https://user-images.githubusercontent.com/81822988/114532253-f2ce8380-9c4c-11eb-92ca-b5ee0e954c95.jpg)
+
 
 3.    Leaflet-billboard for school: 
       ![11](https://user-images.githubusercontent.com/81822988/113870928-a6012d80-97b2-11eb-8ec3-04cdac841c98.png)
