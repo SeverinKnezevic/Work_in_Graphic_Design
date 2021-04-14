@@ -1,5 +1,5 @@
 # Work_in_Graphic_Design
-My works in graphic design (freelance)
+My works in graphic design 
 
 
 
