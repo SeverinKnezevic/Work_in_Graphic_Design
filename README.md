@@ -14,10 +14,10 @@ Graphic Design in:
 
 
 Examples of my works:
-
+****
 1.    Flyer-billboard for shop:
       ![Jupol-Sale](https://user-images.githubusercontent.com/81822988/113870948-aac5e180-97b2-11eb-9f8a-bfb243c40d59.jpg)  
-      
+****     
 2.    Bussiness card:
      ![Business_card](https://user-images.githubusercontent.com/81822988/114532253-f2ce8380-9c4c-11eb-92ca-b5ee0e954c95.jpg)
 
