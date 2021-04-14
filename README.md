@@ -38,6 +38,7 @@ Examples of my works:
 ****
 
 *©SeverinKnezevic*
+
 _Email: knezevicseverin@gmail.com_
 
 ****
