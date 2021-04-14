@@ -21,7 +21,7 @@ Examples of my works:
 2.    Bussiness card:
      ![Business_card](https://user-images.githubusercontent.com/81822988/114532253-f2ce8380-9c4c-11eb-92ca-b5ee0e954c95.jpg)
 ****
-3.    Leaflet-billboard for school: 
+3.    Flyer-billboard for school: 
       ![11](https://user-images.githubusercontent.com/81822988/113870928-a6012d80-97b2-11eb-8ec3-04cdac841c98.png)
 ****
 4.    Special flyer for restaurant/photography for social networks:
