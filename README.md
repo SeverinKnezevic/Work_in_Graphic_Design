@@ -10,7 +10,7 @@ Graphic Design in:
       - Adobe InDesign 
       - CorelDRAW 11
 
-* Udemy Certification: Graphic Design Masterclass - Learn GREAT Design 
+- [x] Udemy Certification: Graphic Design Masterclass - Learn GREAT Design 
 
 
 Examples of my works:
