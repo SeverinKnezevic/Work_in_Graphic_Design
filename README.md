@@ -36,7 +36,10 @@ Examples of my works:
 7.    Food photography "Kulen" #delicius #specialty #homemade
       ![kulen_](https://user-images.githubusercontent.com/81822988/114527854-ba2cab00-9c48-11eb-8045-e13aa026329d.jpg)
 ****
-
+8.    Ice cream
+      ![icecreamforschool](https://user-images.githubusercontent.com/81822988/116531800-d8003e00-a8df-11eb-9c56-361ffc9c7a69.jpg)
+****      
+ 
 *©SeverinKnezevic*
 
 _Email: knezevicseverin@gmail.com_
